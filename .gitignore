@@ -1,0 +1,7 @@
+src/.vs/
+src/packages/
+src/Sitecore.Support.afitest12/bin/
+src/Sitecore.Support.afitest12/obj/
+*.pubxml
+*.user
+*.suo
